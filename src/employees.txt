@@ -1,0 +1,5 @@
+Hareth, Shoman, 2005-07-09, manager, harethshoman9@gmail.com, 0597945346, palestine, abu falah, ramallah, palestine, Mastre, me.jpeg, Hourly Employee
+Elyas, ihmoud, 2004-06-20, marketing, elyasihmoud@gmail.com, 0599112233, palestine, tormusaia, ramallah, palestine, Primary School, elyas.jpg, Employee Based Commission
+Ramzi, Abu falah, 2005-02-22, assistant, ramziabufalah@gmail.com, 0599112345, palestine, abu falah, ramallah, palestine, B.A, ramzi.jpg, Salaried Employee
+Khaled, Hamayel, 2005-03-25, designer, khaledhamayel@gmail.com, 0569112245, palestine, abu falah, ramallah, palestine, Mastre, khaled.jpg, Hourly Employee
+Abd, Lehrob, 2005-03-28, developer, abdlehrop@gmail.com, 0569223344, palestine, kharas, Al khalil, palestine, PhD, hrob.jpg, Salaried Employee
